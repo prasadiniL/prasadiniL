@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @prasadini <hi>
+- 👋 Hi, I’m @prasadini 
 - 👀 I’m interested in study
 - 🌱 I’m currently working in Sanmark Solution
 - 💞️ I’m looking to collaborate on ...
